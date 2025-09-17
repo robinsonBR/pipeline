@@ -1,0 +1,1102 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Aficionado Seeds",
+                "totalResults": "3650000",
+                "searchTerms": "Aficionado Seeds",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "66d86c1fcbb6747e7"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Aficionado Seeds",
+                "totalResults": "3650000",
+                "searchTerms": "Aficionado Seeds",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "66d86c1fcbb6747e7"
+            }
+        ]
+    },
+    "context": {
+        "title": "ActuateBrandSearch"
+    },
+    "searchInformation": {
+        "searchTime": 0.27871,
+        "formattedSearchTime": "0.28",
+        "totalResults": "3650000",
+        "formattedTotalResults": "3,650,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Aficionado Seeds",
+            "htmlTitle": "<b>Aficionado Seeds</b>",
+            "link": "https://aficionadoseeds.com/",
+            "displayLink": "aficionadoseeds.com",
+            "snippet": "48 TIME AWARD-WINNING SEED COMPANY · AFICIONADO CLONES · AFICIONADO SEEDS · FRESH COAST CLONES. 17 Products. EMERALD TRIANGLE HERITAGE. FOUNDED IN NORTHERN ...",
+            "htmlSnippet": "48 TIME AWARD-WINNING SEED COMPANY &middot; AFICIONADO CLONES &middot; <b>AFICIONADO SEEDS</b> &middot; FRESH COAST CLONES. 17 Products. EMERALD TRIANGLE HERITAGE. FOUNDED IN NORTHERN&nbsp;...",
+            "formattedUrl": "https://aficionadoseeds.com/",
+            "htmlFormattedUrl": "https://<b>aficionadoseeds</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_7EyZIfbpLrXacF4Fuosc-HCSnrQ5KdwNQEKJBNY9SHPnVvLJzPPY5s&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJBZmljaW9uYWRvIFN0b3JlICIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoyMzk0MDU0NTl9.4YV4wPIqUtlQ99zfAurfQs8U0Uz0DLaXdQxo4lwobWYMQ",
+                        "og:type": "website",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary",
+                        "og:site_name": "Aficionado Store",
+                        "og:title": "Aficionado Store",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "https://s0.wp.com/i/webclip.png",
+                        "twitter:image": "https://s0.wp.com/i/webclip.png",
+                        "twitter:text:title": "Home",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Visit the post for more.",
+                        "og:locale": "en_US",
+                        "og:url": "https://aficionadoseeds.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJBZmljaW9uYWRvIFN0b3JlICIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoyMzk0MDU0NTl9.4YV4wPIqUtlQ99zfAurfQs8U0Uz0DLaXdQxo4lwobWYMQ"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Anyone running Aficionado? : r/cannabiscultivation",
+            "htmlTitle": "Anyone running <b>Aficionado</b>? : r/cannabiscultivation",
+            "link": "https://www.reddit.com/r/cannabiscultivation/comments/1ahy3im/anyone_running_aficionado/",
+            "displayLink": "www.reddit.com",
+            "snippet": "Feb 3, 2024 ... ... seeds that are available from other breeders. I will never support Aficionado's business model of exhorbitant pricing and artificial scarcity.",
+            "htmlSnippet": "Feb 3, 2024 <b>...</b> ... <b>seeds</b> that are available from other breeders. I will never support <b>Aficionado&#39;s</b> business model of exhorbitant pricing and artificial scarcity.",
+            "formattedUrl": "https://www.reddit.com/r/cannabiscultivation/.../anyone_running_aficionad...",
+            "htmlFormattedUrl": "https://www.reddit.com/r/cannabiscultivation/.../anyone_running_<b>aficionad</b>...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS2FTc7hJOqJnfQK7RKlLSoMfjc4WkhWJ08EfR_xFryrszre2uyVvbqw8&s",
+                        "width": "281",
+                        "height": "179"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://preview.redd.it/anyone-running-aficionado-v0-w86560tbydgc1.jpg?width=1080&crop=smart&auto=webp&s=9fe19ce3e169aa5188a9aaf11d4e1968ea5b8b55",
+                        "theme-color": "#000000",
+                        "og:image:width": "1080",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "r/cannabiscultivation on Reddit: Anyone running Aficionado?",
+                        "og:site_name": "Reddit",
+                        "og:title": "r/cannabiscultivation on Reddit: Anyone running Aficionado?",
+                        "og:image:height": "689",
+                        "msapplication-navbutton-color": "#000000",
+                        "og:description": "Posted by u/[Deleted Account] - 8 votes and 66 comments",
+                        "twitter:image": "https://preview.redd.it/anyone-running-aficionado-v0-w86560tbydgc1.jpg?width=1080&crop=smart&auto=webp&s=9fe19ce3e169aa5188a9aaf11d4e1968ea5b8b55",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "twitter:site": "@reddit",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:ttl": "600",
+                        "og:url": "https://www.reddit.com/r/cannabiscultivation/comments/1ahy3im/anyone_running_aficionado/?seeker-session=true"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://preview.redd.it/anyone-running-aficionado-v0-w86560tbydgc1.jpg?width=1080&crop=smart&auto=webp&s=9fe19ce3e169aa5188a9aaf11d4e1968ea5b8b55"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "AFICIONADO CLONES – Aficionado Store",
+            "htmlTitle": "<b>AFICIONADO</b> CLONES – <b>Aficionado</b> Store",
+            "link": "https://aficionadoseeds.com/product-category/clones/",
+            "displayLink": "aficionadoseeds.com",
+            "snippet": "Aficionado Store · Home · Shop · Find Retailers · AFICIONADO CLONES · AFICIONADO SEEDS · FRESH COAST CLONES · CONTACT · Cultivation Downloads. Search for ...",
+            "htmlSnippet": "Aficionado Store &middot; Home &middot; Shop &middot; Find Retailers &middot; AFICIONADO CLONES &middot; <b>AFICIONADO SEEDS</b> &middot; FRESH COAST CLONES &middot; CONTACT &middot; Cultivation Downloads. Search for&nbsp;...",
+            "formattedUrl": "https://aficionadoseeds.com/product-category/clones/",
+            "htmlFormattedUrl": "https://<b>aficionadoseeds</b>.com/product-category/clones/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_7EyZIfbpLrXacF4Fuosc-HCSnrQ5KdwNQEKJBNY9SHPnVvLJzPPY5s&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJBZmljaW9uYWRvIFN0b3JlICIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoyMzk0MDU0NTl9.4YV4wPIqUtlQ99zfAurfQs8U0Uz0DLaXdQxo4lwobWYMQ",
+                        "og:type": "website",
+                        "og:image:width": "1200",
+                        "og:site_name": "Aficionado Store",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "AFICIONADO CLONES – Aficionado Store",
+                        "og:image:height": "630",
+                        "og:locale": "en_US",
+                        "og:url": "https://aficionadoseeds.com/product-category/clones/",
+                        "msapplication-tileimage": "https://s0.wp.com/i/webclip.png",
+                        "og:description": "BREEDER CERTIFIED CLONES \r\nElites bred and/or curated by The Aficionado Family. Specializing in Gas, Sour, and Candy Profiles"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJBZmljaW9uYWRvIFN0b3JlICIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoyMzk0MDU0NTl9.4YV4wPIqUtlQ99zfAurfQs8U0Uz0DLaXdQxo4lwobWYMQ"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Aficionado Mendocino Seeds - Shipped",
+            "htmlTitle": "<b>Aficionado</b> Mendocino <b>Seeds</b> - Shipped",
+            "link": "https://seedsandclones.com/aficionado-mendocino/",
+            "displayLink": "seedsandclones.com",
+            "snippet": "Aficionado Mendocino seeds offer connoisseur-grade strains, emphasizing potency, terpene profiles, and uniqueness.",
+            "htmlSnippet": "<b>Aficionado</b> Mendocino <b>seeds</b> offer connoisseur-grade strains, emphasizing potency, terpene profiles, and uniqueness.",
+            "formattedUrl": "https://seedsandclones.com/aficionado-mendocino/",
+            "htmlFormattedUrl": "https://<b>seeds</b>andclones.com/<b>aficionado</b>-mendocino/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-TU-kbIJmTjkmRm4WmAwLRIITQFc-_eXWVVzwnzc8FQs9W3_XC0giT8&s",
+                        "width": "389",
+                        "height": "129"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://seedsandclones.com/wp-content/uploads/elementor/thumbs/aficionado-header-logo-qobeakh1g7nq1d47t5vjxojmxcm7cu4nnqqpnnrfgg.png",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#000000",
+                        "og:site_name": "Seeds & Clones",
+                        "og:title": "Aficionado",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://seedsandclones.com/wp-content/uploads/2023/11/Seeds-Clones-Logo-3-300x300.png",
+                        "og:description": "Get top-quality Aficionado Mendocino seeds shipped nationwide. Discover luxury cannabis genetics from California's Emerald Triangle.",
+                        "twitter:data1": "19 minutes",
+                        "article:modified_time": "2025-07-15T01:37:19+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://seedsandclones.com/aficionado-mendocino/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://seedsandclones.com/wp-content/uploads/elementor/thumbs/aficionado-header-logo-qobeakh1g7nq1d47t5vjxojmxcm7cu4nnqqpnnrfgg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "seeds – Aficionado Store",
+            "htmlTitle": "<b>seeds</b> – <b>Aficionado</b> Store",
+            "link": "https://aficionadoseeds.com/product-tag/seeds/",
+            "displayLink": "aficionadoseeds.com",
+            "snippet": "Posts about seeds written by Aficionado Estates. ... AFICIONADO SEEDS. SKYWALKER OG BX1. $300.00. Aficionado Designs, LLC 1267 ...",
+            "htmlSnippet": "Posts about seeds written by Aficionado Estates. ... <b>AFICIONADO SEEDS</b>. SKYWALKER OG BX1. $300.00. Aficionado Designs, LLC 1267&nbsp;...",
+            "formattedUrl": "https://aficionadoseeds.com/product-tag/seeds/",
+            "htmlFormattedUrl": "https://<b>aficionadoseeds</b>.com/product-tag/<b>seeds</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIxR6qnBb7WazoofcM9zef9l8CSuadF79c8fZubBa82PCUDLSA21vjDug&s",
+                        "width": "205",
+                        "height": "246"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJBZmljaW9uYWRvIFN0b3JlICIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoyMzk0MDU0NTl9.4YV4wPIqUtlQ99zfAurfQs8U0Uz0DLaXdQxo4lwobWYMQ",
+                        "og:type": "website",
+                        "og:image:width": "1200",
+                        "og:site_name": "Aficionado Store",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "seeds – Aficionado Store",
+                        "og:image:height": "630",
+                        "og:locale": "en_US",
+                        "og:url": "https://aficionadoseeds.com/product-tag/seeds/",
+                        "msapplication-tileimage": "https://s0.wp.com/i/webclip.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://aficionadoseeds.com/wp-content/uploads/2024/12/IMG_0655_edited-247x296.jpg?crop=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Aficionado seeds | Rollitup",
+            "htmlTitle": "<b>Aficionado seeds</b> | Rollitup",
+            "link": "https://www.rollitup.org/t/aficionado-seeds.903673/",
+            "displayLink": "www.rollitup.org",
+            "snippet": "Mar 23, 2016 ... Aficionado's seeds are 50-100 times better than a 30 year old seed bank...gimme a break! It is all marketing and Seeds are headed down the path of Vitamin ...",
+            "htmlSnippet": "Mar 23, 2016 <b>...</b> <b>Aficionado&#39;s seeds</b> are 50-100 times better than a 30 year old seed bank...gimme a break! It is all marketing and Seeds are headed down the path of Vitamin&nbsp;...",
+            "formattedUrl": "https://www.rollitup.org/t/aficionado-seeds.903673/",
+            "htmlFormattedUrl": "https://www.rollitup.org/t/<b>aficionado</b>-<b>seeds</b>.903673/",
+            "pagemap": {
+                "person": [
+                    {
+                        "image": "https://www.rollitup.org/data/avatars/m/952/952449.jpg?1526630400",
+                        "jobtitle": "Well-Known Member",
+                        "name": "bullSnot",
+                        "url": "https://www.rollitup.org/members/bullsnot.952449/"
+                    },
+                    {
+                        "image": "https://www.rollitup.org/data/avatars/m/885/885135.jpg?1522084607",
+                        "jobtitle": "Well-Known Member",
+                        "name": "trippnface",
+                        "url": "https://www.rollitup.org/members/trippnface.885135/"
+                    },
+                    {
+                        "image": "https://www.rollitup.org/data/avatars/m/802/802138.jpg?1391417270",
+                        "jobtitle": "Well-Known Member",
+                        "name": "Observe & Report",
+                        "url": "https://www.rollitup.org/members/observe-report.802138/"
+                    },
+                    {
+                        "image": "https://www.rollitup.org/data/avatars/m/91/91403.jpg?1675526799",
+                        "jobtitle": "Well-Known Member",
+                        "name": "ANC",
+                        "url": "https://www.rollitup.org/members/anc.91403/"
+                    },
+                    {
+                        "image": "https://www.rollitup.org/data/avatars/m/882/882300.jpg?1514177578",
+                        "jobtitle": "Well-Known Member",
+                        "name": "SmokyLungs",
+                        "url": "https://www.rollitup.org/members/smokylungs.882300/"
+                    },
+                    {
+                        "image": "https://www.rollitup.org/data/avatars/m/969/969274.jpg?1502577676",
+                        "jobtitle": "Active Member",
+                        "name": "chronic68",
+                        "url": "https://www.rollitup.org/members/chronic68.969274/"
+                    },
+                    {
+                        "image": "https://www.rollitup.org/data/avatars/m/919/919384.jpg?1450340698",
+                        "jobtitle": "Well-Known Member",
+                        "name": "Lightgreen2k",
+                        "url": "https://www.rollitup.org/members/lightgreen2k.919384/"
+                    }
+                ],
+                "interactioncounter": [
+                    {
+                        "userinteractioncount": "4",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "10",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "3",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "3",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "6",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "3",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "4",
+                        "interactiontype": "https://schema.org/LikeAction"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "theme-color": "#799230",
+                        "og:type": "website",
+                        "twitter:title": "Aficionado seeds",
+                        "og:site_name": "Rollitup",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "twitter:description": "what is the deal with their line up this year; not happening ? \ni saw they released those 2 ridiculously overpriced packs; but have not heard or seen any others; and all the seedbanks no longer...",
+                        "apple-mobile-web-app-title": "RIU",
+                        "og:title": "Aficionado seeds",
+                        "og:url": "https://www.rollitup.org/t/aficionado-seeds.903673/",
+                        "og:description": "what is the deal with their line up this year; not happening ? \ni saw they released those 2 ridiculously overpriced packs; but have not heard or seen any others; and all the seedbanks no longer carry any of their stock; curious what went down... think one of the dudes and his girlie broke up ..."
+                    }
+                ],
+                "comment": [
+                    {
+                        "datemodified": "2017-11-26T02:12:33-0700",
+                        "text": "Any company that sells 10 seeds for the price of an OZ of bud..has no concept of Marketability...just greed. . Help them have seeds rotting in their humidor...boycott them. Show your outrage....",
+                        "url": "Nov 26, 2017",
+                        "datepublished": "2017-11-26T01:26:45-0700"
+                    },
+                    {
+                        "text": "alot of truth to what you are saying. the hype game is out of control, and price has certainly exceeded quality. i bought a very expensive pack last year; and an s1 bagseed i popped ended up...",
+                        "url": "Nov 29, 2017",
+                        "datepublished": "2017-11-29T12:25:50-0700"
+                    },
+                    {
+                        "text": "I won't dispute that Aficionado has a lot of marketing and hype. However, Aficionado and Mean Gene do well at the Emerald Cup, a double blind competition that NorCal Cannabis nerds take seriously....",
+                        "url": "Nov 29, 2017",
+                        "datepublished": "2017-11-29T13:03:42-0700"
+                    },
+                    {
+                        "text": "Kevin Jodrey also holds them in high esteem. I want their Creme Brulee strain as well as a few they don't have listed but I know they were working on.",
+                        "url": "Nov 29, 2017",
+                        "datepublished": "2017-11-29T13:07:46-0700"
+                    },
+                    {
+                        "datemodified": "2017-11-29T18:20:38-0700",
+                        "text": "$35-70 dollars a seed! I hope they replace them. like poppy used to say \"A fool and His Money is Soon Parted\". so if you get 600 seeds from a plant, that plant is now worth 35-42K? Come on...",
+                        "url": "Nov 29, 2017",
+                        "datepublished": "2017-11-29T15:55:31-0700"
+                    },
+                    {
+                        "text": "They have cheaper strains if u buy direct those are the hype strains blame the terptards not them",
+                        "url": "Nov 30, 2017",
+                        "datepublished": "2017-11-30T20:14:53-0700"
+                    },
+                    {
+                        "text": "SmokyLungs said: They have cheaper strains if u buy direct those are the hype strains blame the terptards not them Click to expand... Which strains would those be?",
+                        "url": "Dec 1, 2017",
+                        "datepublished": "2017-12-01T09:55:57-0700"
+                    },
+                    {
+                        "text": "Observe & Report said: Which strains would those be? Click to expand... Oops theres a seedbank called aficionado i thought that was their gear",
+                        "url": "Dec 1, 2017",
+                        "datepublished": "2017-12-01T13:19:26-0700"
+                    },
+                    {
+                        "text": "Need some good ethical group to come in and cut throat the pricing on all these crazy underground marketing scams disguised as botanists",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T02:42:45-0700"
+                    },
+                    {
+                        "text": "trippnface said: alot of truth to what you are saying. the hype game is out of control, and price has certainly exceeded quality. i bought a very expensive pack last year; and an s1 bagseed...",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T02:48:56-0700"
+                    },
+                    {
+                        "text": "Everybody in the grow game is in on that scam mate. Most people can't grow weed for shit and give up after a try, or maybe try one more time, buying even more crap gear and consumables to try...",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T02:52:47-0700"
+                    },
+                    {
+                        "text": "yah how dare the bullSnot said: Any company that sells 10 seeds for the price of an OZ of bud..has no concept of Marketability...just greed. . Help them have seeds rotting in their humidor...boycot...",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T03:00:23-0700"
+                    },
+                    {
+                        "text": "chronic68 said: yah how dare the ya sell seeds for the price of a oz what were they thinking its not like if its a bomb ass strain you could potential net pounds of bud from them Click to expand......",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T05:34:57-0700"
+                    },
+                    {
+                        "text": "bullSnot said: ya well knock yourself out with that 70 dollar seed. I find I need to grow out 20-25 plants to get the two I want to mature....I will never promote greed. Click to expand......",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T06:04:06-0700"
+                    },
+                    {
+                        "text": "bullSnot said: $35-70 dollars a seed! I hope they replace them. like poppy used to say \"A fool and His Money is Soon Parted\". so if you get 600 seeds from a plant, that plant is now worth 35-42K?...",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T07:03:38-0700"
+                    },
+                    {
+                        "text": "no one drives those! they are Garage Princesses...just like no one knows what their genetics boil down to...",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T07:34:09-0700"
+                    },
+                    {
+                        "text": "The first one is at 9th generation. Second strain is a custom chemdawg. What was that you where saying about, not knowing what is in their genetics?",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T07:59:00-0700"
+                    },
+                    {
+                        "text": "Lightgreen2k said: View attachment 4052001 View attachment 4052002 The first one is at 9th generation. Second strain is a custom chemdawg. What was that you where saying about, not knowing...",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T07:59:58-0700"
+                    },
+                    {
+                        "text": "I think breeders and car manufacturers can charge whatever they want for their products and it's up to individual consumers to decide if it's worth it or not. If it isn't worth it they'll lower...",
+                        "url": "Dec 2, 2017",
+                        "datepublished": "2017-12-02T09:39:50-0700"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "The Grow Room",
+                        "name": "The Grow Room",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Seed and Strain Reviews",
+                        "name": "Seed and Strain Reviews",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Seedbank Reviews",
+                        "name": "Seedbank Reviews",
+                        "position": "3"
+                    },
+                    {
+                        "item": "The Grow Room",
+                        "name": "The Grow Room",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Seed and Strain Reviews",
+                        "name": "Seed and Strain Reviews",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Seedbank Reviews",
+                        "name": "Seedbank Reviews",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Shop – Aficionado Store",
+            "htmlTitle": "Shop – <b>Aficionado</b> Store",
+            "link": "https://aficionadoseeds.com/shop/",
+            "displayLink": "aficionadoseeds.com",
+            "snippet": "AFICIONADO SEEDS. 18 Products · FRESH COAST CLONES. 17 Products. Aficionado Designs, LLC 1267 Willis St. Redding, CA 96001",
+            "htmlSnippet": "<b>AFICIONADO SEEDS</b>. 18 Products &middot; FRESH COAST CLONES. 17 Products. Aficionado Designs, LLC 1267 Willis St. Redding, CA 96001",
+            "formattedUrl": "https://aficionadoseeds.com/shop/",
+            "htmlFormattedUrl": "https://<b>aficionadoseeds</b>.com/shop/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_7EyZIfbpLrXacF4Fuosc-HCSnrQ5KdwNQEKJBNY9SHPnVvLJzPPY5s&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJBZmljaW9uYWRvIFN0b3JlICIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoyMzk0MDU0NTl9.4YV4wPIqUtlQ99zfAurfQs8U0Uz0DLaXdQxo4lwobWYMQ",
+                        "og:type": "website",
+                        "og:image:width": "1200",
+                        "og:site_name": "Aficionado Store",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Shop – Aficionado Store",
+                        "og:image:height": "630",
+                        "og:locale": "en_US",
+                        "og:url": "https://aficionadoseeds.com/shop/",
+                        "msapplication-tileimage": "https://s0.wp.com/i/webclip.png",
+                        "og:description": "This is where you can browse products in this store."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJBZmljaW9uYWRvIFN0b3JlICIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoyMzk0MDU0NTl9.4YV4wPIqUtlQ99zfAurfQs8U0Uz0DLaXdQxo4lwobWYMQ"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Aficionado Seeds | Cannabis Seeds",
+            "htmlTitle": "<b>Aficionado Seeds</b> | Cannabis Seeds",
+            "link": "https://deeplyrootedseedbank.com/product-category/aficionado-seeds/",
+            "displayLink": "deeplyrootedseedbank.com",
+            "snippet": "By uniting legendary heirloom genetics and visionary artisanship, Aficionado exemplifies the Emerald Triangle tradition of crafting boutique seeds.",
+            "htmlSnippet": "By uniting legendary heirloom genetics and visionary artisanship, <b>Aficionado</b> exemplifies the Emerald Triangle tradition of crafting boutique <b>seeds</b>.",
+            "formattedUrl": "https://deeplyrootedseedbank.com/product-category/aficionado-seeds/",
+            "htmlFormattedUrl": "https://deeplyrootedseedbank.com/product-category/<b>aficionado</b>-<b>seeds</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQl6yNySYgn-nyinpkQxlvwEs22MYW8dGUn-E2ckYTr9boSpKsMfUYylU&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://deeplyrootedseedbank.com/wp-content/uploads/2025/01/drsb-small.jpg",
+                        "og:type": "article",
+                        "og:image:width": "500",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Deeply Rooted Seed Bank",
+                        "og:title": "Aficionado Seeds | Cannabis Seeds",
+                        "og:image:height": "500",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://deeplyrootedseedbank.com/wp-content/uploads/2025/01/drsb-small-300x300.jpg",
+                        "twitter:site": "@deeplyrootedsb",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://deeplyrootedseedbank.com/product-category/aficionado-seeds/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://deeplyrootedseedbank.com/wp-content/uploads/2025/01/rainbow-larry-300x300.jpg"
+                    }
+                ],
+                "wpheader": [
+                    {
+                        "headline": "Deeply Rooted Seed Bank"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "SAN's Cherry Chucks - Part 1 (Aficionado Seeds \"TRUFFLEZ\" -Part ...",
+            "htmlTitle": "SAN&#39;s Cherry Chucks - Part 1 (<b>Aficionado Seeds</b> &quot;TRUFFLEZ&quot; -Part ...",
+            "link": "https://overgrow.com/t/sans-cherry-chucks-part-1-aficionado-seeds-trufflez-part-1/121091?page=11",
+            "displayLink": "overgrow.com",
+            "snippet": "Aug 24, 2023 ... The trufflez-dudes have started to form balls. so, it's time to see their development as well. here they are #2 - #3 - #5 ... seven days into 12/12.",
+            "htmlSnippet": "Aug 24, 2023 <b>...</b> The trufflez-dudes have started to form balls. so, it&#39;s time to see their development as well. here they are #2 - #3 - #5 ... seven days into 12/12.",
+            "formattedUrl": "https://overgrow.com/t/sans-cherry-chucks...aficionado-seeds.../121091?...",
+            "htmlFormattedUrl": "https://overgrow.com/t/sans-cherry-chucks...<b>aficionado</b>-<b>seeds</b>.../121091?...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OAZT6KvC4ThsOAKS0HvYt8n_1ve_v95o0IIsmvWZuugHE4cf8lIojenZ&s",
+                        "width": "285",
+                        "height": "177"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://overgrow.com/uploads/default/original/4X/9/a/3/9a3fd401ff5b01ede3420d476bb34ed3dafd0a04.png"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "santero",
+                        "url": "https://overgrow.com/u/santero"
+                    },
+                    {
+                        "name": "hawkman",
+                        "url": "hawkman"
+                    },
+                    {
+                        "name": "santero",
+                        "url": "santero"
+                    },
+                    {
+                        "name": "santero",
+                        "url": "santero"
+                    },
+                    {
+                        "name": "saxo",
+                        "url": "saxo"
+                    },
+                    {
+                        "name": "m0sirys",
+                        "url": "m0sirys"
+                    },
+                    {
+                        "name": "santero",
+                        "url": "santero"
+                    },
+                    {
+                        "name": "m0sirys",
+                        "url": "m0sirys"
+                    },
+                    {
+                        "name": "funkyfunk",
+                        "url": "funkyfunk"
+                    },
+                    {
+                        "name": "Barrie84",
+                        "url": "Barrie84"
+                    },
+                    {
+                        "name": "Papalag",
+                        "url": "Papalag"
+                    },
+                    {
+                        "name": "Agreenpassion",
+                        "url": "Agreenpassion"
+                    },
+                    {
+                        "name": "TopShelfTrees1",
+                        "url": "TopShelfTrees1"
+                    },
+                    {
+                        "name": "santero",
+                        "url": "santero"
+                    },
+                    {
+                        "name": "TopShelfTrees1",
+                        "url": "TopShelfTrees1"
+                    },
+                    {
+                        "name": "j0ebob",
+                        "url": "j0ebob"
+                    },
+                    {
+                        "name": "santero",
+                        "url": "santero"
+                    },
+                    {
+                        "name": "Emeraldgreen",
+                        "url": "Emeraldgreen"
+                    },
+                    {
+                        "name": "G-paS",
+                        "url": "G-paS"
+                    },
+                    {
+                        "name": "Cormoran",
+                        "url": "Cormoran"
+                    },
+                    {
+                        "name": "santero",
+                        "url": "santero"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Overgrow.com"
+                    }
+                ],
+                "interactioncounter": [
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "51",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "48",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "7",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "6",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "11",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "4",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "6",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "6",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "9",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "8",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "19",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "17",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "13",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "9",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "6",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "4",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "3",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "6",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "6",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://overgrow.com/uploads/default/optimized/4X/4/5/2/452f232605b354f6e63ff5b578ef08b145aee45a_2_1024x634.jpeg",
+                        "theme-color": "#395e39",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "SAN's Cherry Chucks - Part 1 (Aficionado Seeds \"TRUFFLEZ\" -Part 1)",
+                        "article:published_time": "2023-10-28T22:00:20+00:00",
+                        "og:site_name": "Overgrow.com",
+                        "twitter:url": "https://overgrow.com/t/sans-cherry-chucks-part-1-aficionado-seeds-trufflez-part-1/121091?page=11",
+                        "og:title": "SAN's Cherry Chucks - Part 1 (Aficionado Seeds \"TRUFFLEZ\" -Part 1)",
+                        "color-scheme": "light",
+                        "og:description": "Looks like you have some excellent strains a growing !!! @santero",
+                        "twitter:image": "https://overgrow.com/uploads/default/optimized/4X/4/5/2/452f232605b354f6e63ff5b578ef08b145aee45a_2_1024x634.jpeg",
+                        "og:article:tag": "cherry",
+                        "og:ignore_canonical": "true",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover",
+                        "twitter:description": "Looks like you have some excellent strains a growing !!! @santero",
+                        "og:article:section": "Indoor Growing",
+                        "og:url": "https://overgrow.com/t/sans-cherry-chucks-part-1-aficionado-seeds-trufflez-part-1/121091?page=11",
+                        "og:article:section:color": "1e8422"
+                    }
+                ],
+                "discussionforumposting": [
+                    {
+                        "keywords": "cherry, san, trufflez, aficionado",
+                        "articlesection": "Indoor Growing",
+                        "text": "hi everybody :slight_smile: @Blueridge was so kind to let me have a go at reproducing the “Trufflez”-seedline. = Cherry Z (= Zkittlez / Cherry Noir) X White Cherry Truffle (= Cherry Noir...",
+                        "headline": "SAN's Cherry Chucks - Part 1 (Aficionado Seeds \"TRUFFLEZ\" -Part 1)",
+                        "url": "https://overgrow.com/t/sans-cherry-chucks-part-1-aficionado-seeds-trufflez-part-1/121091",
+                        "datepublished": "2023-08-24T23:07:13Z"
+                    }
+                ],
+                "comment": [
+                    {
+                        "datemodified": "2023-10-28T22:00:20Z",
+                        "position": "201",
+                        "text": "Looks like you have some excellent strains a growing !!! @santero",
+                        "datepublished": "2023-10-28T22:00:20Z"
+                    },
+                    {
+                        "image": "https://overgrow.com/uploads/default/original/4X/d/1/0/d1045ad188f936d1520f119b2d11625da5731799.jpeg",
+                        "datemodified": "2023-10-29T09:41:58Z",
+                        "position": "202",
+                        "text": "i take the plants out to check for undesirable traits every few days. so, i took the opportunity to show the cherry-types to you again here is trufflez #1, mixed pheno but leaning to the cherry...",
+                        "datepublished": "2023-10-29T09:29:14Z"
+                    },
+                    {
+                        "image": "https://overgrow.com/uploads/default/original/4X/c/0/c/c0ca97f9a0c29c1b0c4686886700780a771261b3.jpeg",
+                        "datemodified": "2023-10-29T09:29:29Z",
+                        "position": "203",
+                        "text": "some people claim to be transparent and show a lot (while they really show next to nothing actually, lol.) so, let’s have a look at something, that does not get reported enough (imo) = males...",
+                        "datepublished": "2023-10-29T09:29:29Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T10:06:32Z",
+                        "position": "204",
+                        "text": "they all do look promizing,i´d say…gals & boys",
+                        "datepublished": "2023-10-29T10:06:32Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T10:35:03Z",
+                        "position": "205",
+                        "text": "#1 and #4 sure has a nice growth !!! i bet, she could fill a tent quite easily",
+                        "datepublished": "2023-10-29T10:35:03Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T10:42:12Z",
+                        "position": "206",
+                        "text": "you want cutz, bro? ( let me finish this and check if they are worth it first, tho )",
+                        "datepublished": "2023-10-29T10:42:12Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T10:51:31Z",
+                        "position": "207",
+                        "text": "would love to man ! no rush i`m not in a hurry ;-=) you are doing great work",
+                        "datepublished": "2023-10-29T10:51:31Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T11:17:32Z",
+                        "position": "208",
+                        "text": "Woa that looks so promising! Nice cherry jungle group shot. Thanks for showing up the males too. The white cherry is just such a bush!",
+                        "datepublished": "2023-10-29T11:17:32Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T11:31:35Z",
+                        "position": "209",
+                        "text": "Great photo s great information its all we want",
+                        "datepublished": "2023-10-29T11:31:35Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T14:45:10Z",
+                        "position": "210",
+                        "text": "Great looking plants ! I really like how you show all the individual traits ! Ty Paps",
+                        "datepublished": "2023-10-29T14:45:10Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T15:52:11Z",
+                        "position": "211",
+                        "text": "Cherry Puff F1 (Baked well cut) sigh The plants look great San! I like how you shave the dude’s legs. Smart",
+                        "datepublished": "2023-10-29T15:52:11Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T16:11:59Z",
+                        "position": "212",
+                        "text": "Very cool brother. Always love your pics/reports . Never ceases to amaze me the productivity you get there, truly. Not sure if I’ve ever told you this direct but I have always looked up to...",
+                        "datepublished": "2023-10-29T16:11:59Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T16:13:58Z",
+                        "position": "213",
+                        "text": "i’d truly be nowhere without real friends. you are one of those, brother",
+                        "datepublished": "2023-10-29T16:13:58Z"
+                    },
+                    {
+                        "datemodified": "2023-10-29T16:14:38Z",
+                        "position": "214",
+                        "text": "That means a lot, truly much MUCH respect",
+                        "datepublished": "2023-10-29T16:14:38Z"
+                    },
+                    {
+                        "image": "https://overgrow.com/uploads/default/original/4X/e/5/7/e57e1f9c0ccad8d8360832d6d33d807d19a68ca0.gif",
+                        "datemodified": "2023-10-29T20:07:56Z",
+                        "position": "215",
+                        "text": "I think a bro-hug gif is in order",
+                        "datepublished": "2023-10-29T19:44:02Z"
+                    },
+                    {
+                        "datemodified": "2023-10-31T20:06:23Z",
+                        "position": "216",
+                        "text": "guys, does maybe anyone remember some info a bout the cherry cobbler from the 22 fall box?",
+                        "datepublished": "2023-10-31T20:06:23Z"
+                    },
+                    {
+                        "datemodified": "2023-10-31T20:08:46Z",
+                        "position": "217",
+                        "text": "I believe @G-paS would be a good person to ask",
+                        "datepublished": "2023-10-31T20:08:46Z"
+                    },
+                    {
+                        "datemodified": "2023-11-01T02:11:41Z",
+                        "position": "218",
+                        "text": "I am sorry. Those came to me when Sebring handed the seeds over to me from '21. That was before the group was formed and I can’t find it searching here. I just remember everybody wanted them....",
+                        "datepublished": "2023-10-31T21:22:41Z"
+                    },
+                    {
+                        "datemodified": "2023-10-31T21:34:21Z",
+                        "position": "219",
+                        "text": "Looks like Sebring got them from @misterbee originally. Sebring's Perpetual No-till Living Organics Growroom Diaries @Sebring , just want to know if you’d be interested in +500 seeds of “Cherry...",
+                        "datepublished": "2023-10-31T21:34:21Z"
+                    },
+                    {
+                        "datemodified": "2023-10-31T21:56:55Z",
+                        "position": "220",
+                        "text": "are these regular seeds? and if so … how? __ i just ask because … a very kind member here offered up some for the next run and i would like the information to be as accurate as possible...",
+                        "datepublished": "2023-10-31T21:56:55Z"
+                    }
+                ],
+                "itemlist": [
+                    {
+                        "itemlistorder": "http://schema.org/ItemListOrderDescending"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://overgrow.com/uploads/default/optimized/4X/4/5/2/452f232605b354f6e63ff5b578ef08b145aee45a_2_1024x634.jpeg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "← previous page",
+                        "url": "← previous page"
+                    },
+                    {
+                        "name": "Home",
+                        "url": "Home"
+                    },
+                    {
+                        "name": "Categories",
+                        "url": "Categories"
+                    },
+                    {
+                        "name": "Guidelines",
+                        "url": "Guidelines"
+                    },
+                    {
+                        "name": "Terms of Service",
+                        "url": "Terms of Service"
+                    },
+                    {
+                        "name": "Privacy Policy",
+                        "url": "Privacy Policy"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Indoor Growing",
+                        "name": "Indoor Growing",
+                        "position": "1"
+                    },
+                    {
+                        "position": "1",
+                        "url": "SAN's Cherry Chucks - Part 2 (Aficionado Seeds \"TRUFFLEZ\" 2nd half)"
+                    },
+                    {
+                        "position": "2",
+                        "url": "(complete) Pakistani Chitral Kush Seed Run"
+                    },
+                    {
+                        "position": "3",
+                        "url": "Subzero’s Grow Diary 📔"
+                    },
+                    {
+                        "position": "4",
+                        "url": "Crownpoodle's 4x4"
+                    },
+                    {
+                        "position": "5",
+                        "url": "SpaceCraft Hub - Homebrew Breeding Hangout"
+                    },
+                    {
+                        "position": "6",
+                        "url": "Humble grow by Islayhearts"
+                    },
+                    {
+                        "position": "7",
+                        "url": "Silver Mountain co-op run (closed)"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Aficionado Seeds | Cannabis Seeds For Sale At Seeds Here Now",
+            "htmlTitle": "<b>Aficionado Seeds</b> | Cannabis Seeds For Sale At Seeds Here Now",
+            "link": "https://seedsherenow.com/product-category/cannabis-seed-breeders/aficionado-seeds/",
+            "displayLink": "seedsherenow.com",
+            "snippet": "Discover a wide selection of elite cannabis strains and marijuana genetics from Aficionado Seeds at SeedsHereNow.com | Top US Seed Bank.",
+            "htmlSnippet": "Discover a wide selection of elite cannabis strains and marijuana genetics from <b>Aficionado Seeds</b> at SeedsHereNow.com | Top US Seed Bank.",
+            "formattedUrl": "https://seedsherenow.com/product-category/cannabis.../aficionado-seeds/",
+            "htmlFormattedUrl": "https://<b>seeds</b>herenow.com/product-category/cannabis.../<b>aficionado</b>-<b>seeds</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDM0HQHeBZQnbNspjAvRQ2WG3H7C8CRO1BEavM0gYXYkaTR_3-cwTYsQ&s",
+                        "width": "410",
+                        "height": "123"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://seedsherenow.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=875022&type=shn-logo&hash=80602764942db663212d538e760eec04",
+                        "og:type": "article",
+                        "og:image:width": "420",
+                        "og:image:alt": "aficionado logo",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Aficionado Seeds | Cannabis Seeds For Sale At Seeds Here Now",
+                        "og:title": "Aficionado Seeds | Cannabis Seeds For Sale At Seeds Here Now",
+                        "og:image:height": "420",
+                        "twitter:label1": "Products",
+                        "og:image:type": "image/png",
+                        "msapplication-tileimage": "https://seedsherenow.com/wp-content/uploads/2025/07/cropped-android-chrome-512x512-2-270x270.png",
+                        "og:description": "Discover a wide selection of elite cannabis strains and marijuana genetics from Aficionado Seeds at SeedsHereNow.com | Top US Seed Bank",
+                        "article:publisher": "https://www.facebook.com/SHNSeedBank/",
+                        "og:image:secure_url": "https://seedsherenow.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=875022&type=shn-logo&hash=80602764942db663212d538e760eec04",
+                        "twitter:image": "https://seedsherenow.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=1008745&type=shn-logo&hash=f8dd633f239d2dc3d91a901e695a6f33",
+                        "twitter:data1": "10",
+                        "twitter:site": "@SeedsHereNow",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Discover a wide selection of elite cannabis strains and marijuana genetics from Aficionado Seeds at SeedsHereNow.com | Top US Seed Bank",
+                        "og:locale": "en_US",
+                        "og:url": "https://seedsherenow.com/product-category/cannabis-seed-breeders/aficionado-seeds/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://seedsherenow.com/wp-content/uploads/2025/08/cropped-SHN_logo.png.webp"
+                    }
+                ]
+            }
+        }
+    ]
+}
