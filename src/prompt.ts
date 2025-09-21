@@ -1,6 +1,10 @@
-import ollama from "ollama";
-import { Message } from "ollama";
+import { Ollama, Message } from "ollama";
+import fetch from "node-fetch";
 import { z } from "zod";
+
+const ollama = new Ollama({
+  fetch: fetch as any
+});
 
 export interface ModelPrompt {
   messages: Message[];

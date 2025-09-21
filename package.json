@@ -13,8 +13,10 @@
   },
   "dependencies": {
     "@googleapis/customsearch": "^5.0.1",
+    "@types/node-fetch": "^2.6.13",
     "dotenv": "^17.2.1",
     "googleapis": "^159.0.0",
+    "node-fetch": "^3.3.2",
     "ollama": "^0.5.16",
     "tsx": "^4.20.5",
     "zod": "^4.1.5"

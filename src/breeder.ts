@@ -3,25 +3,26 @@ import { ModelPrompt, ModelResponse, promptModel } from "./prompt.js";
 import { search } from "./search.js";
 import { fetchHtml } from "./fetchHtml.js";
 
-const BreederSchema = z.toJSONSchema(
-  z.object({
-    description: z
-      .string()
-      .describe(
-        "A description of the company based on the information found on its website, e.g. 'Aficionado Seeds is a cannabis breeder that specializes in breeding cannabis seeds and strains.'"
-      ),
-    location: z
-      .string()
-      .describe(
-        "The city, state and country where the company is located based on the information found on its website, e.g. 'Los Angeles, CA, USA' or 'Califorina, USA' or 'USA'"
-      ),
-    socialMedia: z
-      .array(z.url())
-      .describe(
-        "An array of URLs, without prefix, labels or other text, to any of the company's social media profiles based on the information found on its website, e.g. '[\"https://www.instagram.com/aficionadoestates\"]'"
-      ),
-  })
-);
+const BreederSchemaObject = z.object({
+  description: z
+    .string()
+    .describe(
+      "A description of the company based on the information found on its website, e.g. 'Aficionado Seeds is a cannabis breeder that specializes in breeding cannabis seeds and strains.'"
+    ),
+  location: z
+    .string()
+    .describe(
+      "The city, state and country where the company is located based on the information found on its website, e.g. 'Los Angeles, CA, USA' or 'Califorina, USA' or 'USA'"
+    ),
+  socialMedia: z
+    .array(z.url())
+    .describe(
+      "An array of URLs, without prefix, labels or other text, to any of the company's social media profiles based on the information found on its website, e.g. '[\"https://www.instagram.com/aficionadoestates\"]'"
+    ),
+});
+
+export const BreederSchema = z.toJSONSchema(BreederSchemaObject);
+export type ExtractedData = z.infer<typeof BreederSchemaObject>;
 
 function breederPrompt(breeder: string, html: string): ModelPrompt {
   const messages = [
