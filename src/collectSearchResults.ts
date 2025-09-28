@@ -14,13 +14,21 @@ if (!input || !type || !output) {
 }
 
 const names: string[] = JSON.parse(readFileSync(input, 'utf8'));
-const querySuffix = type === 'breeders' ? ' cannabis seeds official website' : ' cannabis grow official website';
+const querySuffix = type === 'breeders' ? ' cannabis breeder seeds official website' : ' cannabis official website';
 const results: BreederWithSearchResults[] = [];
 
 for (const name of names) {
   try {
     console.log(`Searching for: ${name}`);
-    const searchResults = await search(name + querySuffix);
+
+    let searchResults = await search(name + querySuffix);
+
+    // Prefer .com domains at the top
+    searchResults = searchResults.sort((a, b) => {
+      const aCom = a.link && a.link.includes('.com') ? 1 : 0;
+      const bCom = b.link && b.link.includes('.com') ? 1 : 0;
+      return bCom - aCom;
+    });
 
     const result: BreederWithSearchResults = {
       name: name,
