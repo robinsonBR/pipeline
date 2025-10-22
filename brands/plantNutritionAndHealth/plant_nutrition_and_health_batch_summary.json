@@ -1,0 +1,21 @@
+{
+  "category": "Plant Nutrition and Health",
+  "totalBrands": 107,
+  "batches": [
+    {
+      "filename": "plant_nutrition_and_health_batch1_1-50.json",
+      "count": 50,
+      "range": "1-50"
+    },
+    {
+      "filename": "plant_nutrition_and_health_batch2_51-100.json",
+      "count": 50,
+      "range": "51-100"
+    },
+    {
+      "filename": "plant_nutrition_and_health_batch3_101-107.json",
+      "count": 7,
+      "range": "101-107"
+    }
+  ]
+}

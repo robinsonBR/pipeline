@@ -1,0 +1,16 @@
+{
+  "category": "Accessories",
+  "totalBrands": 84,
+  "batches": [
+    {
+      "filename": "accessories_batch1_1-50.json",
+      "count": 50,
+      "range": "1-50"
+    },
+    {
+      "filename": "accessories_batch2_51-84.json",
+      "count": 34,
+      "range": "51-84"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "category": "Media and Containers",
+  "totalBrands": 51,
+  "batches": [
+    {
+      "filename": "media_and_containers_batch1_1-50.json",
+      "count": 50,
+      "range": "1-50"
+    },
+    {
+      "filename": "media_and_containers_batch2_51-51.json",
+      "count": 1,
+      "range": "51-51"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "category": "Propagation",
+  "totalBrands": 28,
+  "batches": [
+    {
+      "filename": "propagation_batch1_1-28.json",
+      "count": 28,
+      "range": "1-28"
+    }
+  ]
+}

@@ -6,15 +6,26 @@ export type BreederWithSearchResults = {
   searchResults: SearchItem[];
 };
 
-const [,, input, type, output] = process.argv;
+const [,, input, category, output] = process.argv;
 
-if (!input || !type || !output) {
-  console.error("Usage: tsx src/collectSearchResults.ts <input.json> <type> <output.json>");
+if (!input || !category || !output) {
+  console.error("Usage: tsx src/collectSearchResults.ts <input.json> <category> <output.json>");
   process.exit(1);
 }
 
+const categoryToSuffix: Record<string, string> = {
+  'accessories': ' cannabis cultivation accessories official website',
+  'environment': ' cannabis cultivation environment control official website',
+  'lighting': ' cannabis grow lighting official website',
+  'media_and_containers': ' cannabis growing media containers official website',
+  'plant_nutrition_and_health': ' cannabis plant nutrients official website',
+  'propagation': ' cannabis propagation cloning official website',
+  'water_and_hydroponics': ' cannabis hydroponics watering systems official website',
+  'breeders': ' cannabis breeder'
+};
+
 const names: string[] = JSON.parse(readFileSync(input, 'utf8'));
-const querySuffix = type === 'breeders' ? ' cannabis breeder seeds official website' : ' cannabis official website';
+const querySuffix = categoryToSuffix[category] || ' cannabis cultivation official website';
 const results: BreederWithSearchResults[] = [];
 
 for (const name of names) {
@@ -22,13 +33,6 @@ for (const name of names) {
     console.log(`Searching for: ${name}`);
 
     let searchResults = await search(name + querySuffix);
-
-    // Prefer .com domains at the top
-    searchResults = searchResults.sort((a, b) => {
-      const aCom = a.link && a.link.includes('.com') ? 1 : 0;
-      const bCom = b.link && b.link.includes('.com') ? 1 : 0;
-      return bCom - aCom;
-    });
 
     const result: BreederWithSearchResults = {
       name: name,

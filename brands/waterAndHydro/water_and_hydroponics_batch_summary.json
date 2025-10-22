@@ -1,0 +1,16 @@
+{
+  "category": "Water and Hydroponics",
+  "totalBrands": 54,
+  "batches": [
+    {
+      "filename": "water_and_hydroponics_batch1_1-50.json",
+      "count": 50,
+      "range": "1-50"
+    },
+    {
+      "filename": "water_and_hydroponics_batch2_51-54.json",
+      "count": 4,
+      "range": "51-54"
+    }
+  ]
+}
